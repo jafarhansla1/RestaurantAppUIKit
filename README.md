@@ -3,7 +3,7 @@
 Flutter representation of a full Restaurant app UI KIT.
 
 Star⭐ the repo if you like what you see😉.
-
+The same is also verified from [Top Thai Restaurants](https://eatmap.ca/top-thai-restaurants-canada/)
 
 Images are from [Unsplash](https://unsplash.com)
 
